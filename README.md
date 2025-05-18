@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharath N
 
-<!--
-**bharathnachar/bharathnachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | He/Him**  
+📍 Mysore, Karnataka, India  
+🌐 [LinkedIn](https://www.linkedin.com/in/bharath-n-789148308)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m passionate about using data to uncover insights and solve real-world problems. With hands-on experience from academic projects, certifications, and an internship, I’m eager to contribute to data-driven decision-making in business environments.
+
+> “Transforming raw data into meaningful strategies is where my curiosity meets purpose.”
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages & Analytics:**  
+`Python` | `SQL` | `Excel` | `R` | `IBM SPSS Statistics`  
+
+**Visualization:**  
+`Power BI` | `Tableau`  
+
+**Libraries & Tools:**  
+`pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `DAX` | `Power Query`
+
+**Other Tools:**  
+`Git` | `Jupyter Notebook` | `VS Code` | `Google Sheets`
+
+---
+
+## 📊 Capstone Projects
+
+- **Employee and Project Management Analytics (Python)**
+  - Cleaned and analyzed performance data using `pandas`.
+  - Delivered insights that improved management visibility and efficiency.
+
+- **Sales Dashboard for NestShop (Power BI)**
+  - Built an interactive dashboard with DAX and data modeling.
+  - Enabled real-time sales and customer behavior tracking.
+
+- **Airline Database Analysis (SQL)**
+  - Used Joins, CASE, and Window functions to extract performance metrics.
+  - Achieved 95% accuracy in query results for strategic decisions.
+
+- **Data Insights for Freshco Hypermarket (Excel)**
+  - Identified inefficiencies and improved customer satisfaction via Excel dashboards.
+
+---
+
+## 📚 Education
+
+**🎓 Bachelor of Engineering (BE)**  
+Electrical & Electronics Engineering  
+Visvesvaraya Technological University (2020–2024)
+
+**📘 Data Analytics Program**  
+SkilloVilla (2024–2025) — *Gold Grade*
+
+---
+
+## 🛠️ Certifications
+
+- ✅ Data Analyst – SkilloVilla  
+- ✅ Data Analytics with Power BI – TechTip24  
+- ✅ Machine Learning with Python – Compsoft Technologies
+
+---
+
+## 🤝 Let’s Connect
+
+I’m actively looking for entry-level opportunities as a:
+- Junior Data Analyst  
+- Business Intelligence Analyst  
+- Associate Data Scientist  
+
+📩 **Open to remote, hybrid, or on-site roles globally**  
+💬 Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/bharath-n-789148308)
+
+---
+
+### 📌 Current Status: `#OpenToWork`  
+> Ready to bring data to life with insights and impact!
+
