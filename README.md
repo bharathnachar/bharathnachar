@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Data Analyst Fresher
 
-🎯 **Aspiring Data Analyst**/
+🎯 **Aspiring Data Analyst**
+
 🌐 [LinkedIn](https://www.linkedin.com/in/bharath-n-789148308)
 
 ---
