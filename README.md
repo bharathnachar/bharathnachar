@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bharath N
+# 👋 Hi, I'm Data Analyst Fresher
 
 🎯 **Aspiring Data Analyst | He/Him**  
 📍 Mysore, Karnataka, India  
