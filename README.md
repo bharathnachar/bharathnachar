@@ -32,19 +32,19 @@ I’m passionate about using data to uncover insights and solve real-world probl
 
 ## 📊 Capstone Projects
 
-- **Employee and Project Management Analytics (Python)**
+- **Capstone Project on Employee and Project Management Analytics using Python**
   - Cleaned and analyzed performance data using `pandas`.
   - Delivered insights that improved management visibility and efficiency.
 
-- **Sales Dashboard for NestShop (Power BI)**
+- **Capstone Project on Data Analytics and Visualization using Power BI**
   - Built an interactive dashboard with DAX and data modeling.
-  - Enabled real-time sales and customer behavior tracking.
+  - Enabled sales and customer behavior tracking and insights.
 
-- **Airline Database Analysis (SQL)**
+- **Capstone Project on Airline Database Analysis using SQL**
   - Used Joins, CASE, and Window functions to extract performance metrics.
   - Achieved 95% accuracy in query results for strategic decisions.
 
-- **Data Insights for Freshco Hypermarket (Excel)**
+- **Capstone Project on Data Analysis with MS Excel**
   - Identified inefficiencies and improved customer satisfaction via Excel dashboards.
 
 ---
@@ -53,7 +53,7 @@ I’m passionate about using data to uncover insights and solve real-world probl
 
 **🎓 Bachelor of Engineering (BE)**  
 Electrical & Electronics Engineering  
-Visvesvaraya Technological University (2020–2024)
+Visvesvaraya Technological University (2020–2024)  — *6.72 CGPA*
 
 **📘 Data Analytics Program**  
 SkilloVilla (2024–2025) — *Gold Grade*
