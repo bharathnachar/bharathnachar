@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Data Analyst Fresher
 
-🎯 **Aspiring Data Analyst | He/Him**  
-📍 Mysore, Karnataka, India  
+🎯 **Aspiring Data Analyst**
 🌐 [LinkedIn](https://www.linkedin.com/in/bharath-n-789148308)
 
 ---
