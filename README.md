@@ -72,7 +72,6 @@ SkilloVilla (2024–2025) — *Gold Grade*
 
 I’m actively looking for entry-level opportunities as a:
 - Data Analyst (Entry-Level)
-- Junior Data Analyst  
 - Business Analyst
 - Product Analyst
 - Marketing Analyst
