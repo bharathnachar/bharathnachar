@@ -71,9 +71,15 @@ SkilloVilla (2024–2025) — *Gold Grade*
 ## 🤝 Let’s Connect
 
 I’m actively looking for entry-level opportunities as a:
+- Data Analyst (Entry-Level)
 - Junior Data Analyst  
-- Business Intelligence Analyst  
-- Data Analyst 
+- Business Analyst
+- Product Analyst
+- Marketing Analyst
+- Financial Data Analyst
+- Operations Analyst
+  
+
 
 📩 **Open to remote, hybrid, or on-site roles globally**  
 💬 Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/bharath-n-789148308)
