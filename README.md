@@ -73,7 +73,7 @@ SkilloVilla (2024–2025) — *Gold Grade*
 I’m actively looking for entry-level opportunities as a:
 - Junior Data Analyst  
 - Business Intelligence Analyst  
-- Associate Data Scientist  
+- Data Analyst 
 
 📩 **Open to remote, hybrid, or on-site roles globally**  
 💬 Feel free to connect or message me on [LinkedIn](https://www.linkedin.com/in/bharath-n-789148308)
