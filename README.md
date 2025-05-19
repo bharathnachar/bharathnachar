@@ -20,13 +20,13 @@ I’m passionate about using data to uncover insights and solve real-world probl
 `Python` | `SQL` | `Excel` | `IBM SPSS Statistics`  
 
 **Visualization:**  
-`Power BI` | `Tableau`  
+`Power BI`  
 
 **Libraries & Tools:**  
 `pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `DAX` | `Power Query`
 
 **Other Tools:**  
-`Git` | `Jupyter Notebook` | `VS Code` | `Google Sheets`
+`Git` | `Jupyter Notebook` | `Google Sheets`
 
 ---
 
