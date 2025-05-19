@@ -17,7 +17,7 @@ I’m passionate about using data to uncover insights and solve real-world probl
 ## 🧠 Skills & Tools
 
 **Languages & Analytics:**  
-`Python` | `SQL` | `Excel` | `R` | `IBM SPSS Statistics`  
+`Python` | `SQL` | `Excel` | `IBM SPSS Statistics`  
 
 **Visualization:**  
 `Power BI` | `Tableau`  
