@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Bharath N!
 
-### 📊 Data Analyst | Machine Learning Enthusiast | Business Intelligence
+### 📊 Data Analyst | Engineer | Machine Learning Enthusiast | Business Intelligence 
 
 I transform raw data into meaningful insights through data analytics, visualization, and machine learning.
 
