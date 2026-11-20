@@ -23,29 +23,39 @@ I'm an aspiring Data Analyst with a background in Electrical & Electronics Engin
 
 ---
 
+
 ## 🧠 Technical Skills
 
-### Programming & Data Analytics
+### 💻 Programming & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
-
-### Python Libraries & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### Other Tools
-`IBM SPSS Statistics` | `Jupyter Notebook` | `Git` | `GitHub` | `Google Sheets`
+### 📊 BI & Reporting Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![IBM SPSS](https://img.shields.io/badge/IBM_SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
----
+`MIS Reporting`
+
+### 🔍 Data Analytics & Statistical Techniques
+
+`Data Cleaning` · `Exploratory Data Analysis (EDA)` · `Statistical Analysis` · `Hypothesis Testing` · `ETL` · `Data Modelling` · `KPI Tracking` · `Data Visualization` · `Random Forest`
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+`Relational Databases`
+
+### 🤝 Professional Skills
+
+`Stakeholder Reporting` · `Problem Solving` · `Business Communication` · `Documentation` · `Presentation` · `Teamwork`
+
 
 ## 💼 Professional Experience
 
