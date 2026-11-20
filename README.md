@@ -6,7 +6,6 @@
 I transform raw data into meaningful insights through data analytics, visualization, and machine learning.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bharath-n-789148308)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
 
 ---
 
